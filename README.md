@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ TeamOps
+# TeamOps
 
 ### Enterprise-Grade Incident & Risk Management Platform
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 TeamOps is a full-stack enterprise platform that unifies incident management, risk assessment, and security operations into a single cohesive system. Designed to simulate real-world DevOps, SecOps, and ITSM workflows, it combines the best practices from industry-leading tools like PagerDuty, Jira Service Management, and ServiceNow.
 
@@ -49,44 +49,44 @@ In modern engineering organizations, incidents don't exist in isolation. They're
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🔐 Identity & Access Management
+### Identity & Access Management
 
 - **Multi-Role Support**: Admin, Engineer, Security Analyst, and Auditor personas
 - **JWT Authentication**: Secure, stateless authentication with refresh token rotation
 - **RBAC (Role-Based Access Control)**: Granular permissions per resource and action
 - **Session Management**: Configurable timeout and concurrent session handling
 
-### 🚨 Incident Management
+### Incident Management
 
 - **Project-Based Organization**: Group incidents by teams, services, or products
 - **Lifecycle Tracking**: From detection → investigation → resolution → post-mortem
 - **Assignment & Escalation**: Intelligent routing to on-call responders
 - **Post-Incident Analytics**: Root cause analysis, timeline reconstruction, and learnings
 
-### ⚠️ Enterprise Risk Management (ERM)
+### Enterprise Risk Management (ERM)
 
 - **Risk Assessment Matrix**: Quantitative scoring (Likelihood × Impact)
 - **Risk-Incident Linking**: Connect risks to real incidents for validation
 - **Mitigation Tracking**: Document controls, action plans, and residual risk
 - **Compliance Mapping**: Tag risks to frameworks (SOC 2, ISO 27001, NIST)
 
-### 🕵️ Suspicious Activity Detection
+### Suspicious Activity Detection
 
 - **Behavioral Analytics**: Pattern detection for anomalous API usage
 - **Failed Authentication Tracking**: Automated blocking after threshold breaches
 - **Geo-Location Anomalies**: Flag access from unexpected regions
 - **Auto-Incident Creation**: Seamless escalation from alert to incident
 
-### 📊 Audit & Compliance
+### Audit & Compliance
 
 - **Immutable Audit Logs**: Complete trail of user actions and system events
 - **Multi-Format Exports**: JSON, CSV, and PDF report generation
 - **Retention Policies**: Configurable log archival and purging
 - **Search & Filtering**: Advanced querying across all audit dimensions
 
-### 🔥 Firewall & Rule Engine
+### Firewall & Rule Engine
 
 - **IP Blocklisting**: Dynamic rule management for threat mitigation
 - **Endpoint Protection**: Rate limiting and pattern-based blocking
@@ -95,7 +95,7 @@ In modern engineering organizations, incidents don't exist in isolation. They're
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 TeamOps follows a modern, scalable three-tier architecture optimized for maintainability and performance.
 
@@ -142,7 +142,7 @@ TeamOps follows a modern, scalable three-tier architecture optimized for maintai
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -205,7 +205,7 @@ TeamOps follows a modern, scalable three-tier architecture optimized for maintai
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -315,7 +315,7 @@ docker-compose down
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 teamops/
@@ -379,7 +379,7 @@ teamops/
 
 ---
 
-## 📚 API Documentation
+## API Documentation
 
 ### Authentication Endpoints
 
@@ -428,7 +428,7 @@ teamops/
 
 ---
 
-## 🔒 Security
+## Security
 
 TeamOps implements security best practices at every layer:
 
@@ -459,7 +459,7 @@ Please report security vulnerabilities to **security@teamops.dev** (replace with
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -494,19 +494,19 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
-### Phase 1: Core Foundation ✅ (Completed)
+### Phase 1: Core Foundation (in progress)
 
 - [x] User authentication & RBAC
-- [x] Incident lifecycle management
-- [x] Basic ERM ticket system
-- [x] Audit logging infrastructure
+- [ ] Incident lifecycle management
+- [ ] Basic ERM ticket system
+- [ ] Audit logging infrastructure
 
-### Phase 2: Enhanced Security (In Progress)
+### Phase 2: Enhanced Security
 
-- [x] Suspicious activity detection
-- [x] Basic firewall rule engine
+- [ ] Suspicious activity detection
+- [ ] Basic firewall rule engine
 - [ ] Advanced anomaly detection using ML
 - [ ] Geo-blocking and reputation scoring
 - [ ] Integration with threat intelligence feeds
@@ -555,13 +555,13 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by industry-leading tools: PagerDuty, Jira Service Management, ServiceNow
 - UI components powered by [shadcn/ui](https://ui.shadcn.com/)
@@ -570,7 +570,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support & Contact
+## Support & Contact
 
 - **Documentation**: [docs.teamops.dev](https://docs.teamops.dev) (replace with your actual URL)
 - **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/teamops/issues)
@@ -582,10 +582,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by the TeamOps Community**
+**Built with ❤️ by the Keletso monyamane**
 
-⭐ Star us on GitHub — it motivates us a lot!
+⭐ Star us on GitHub — it would be much apprecated!
 
-[Report Bug](https://github.com/yourusername/teamops/issues) • [Request Feature](https://github.com/yourusername/teamops/issues) • [Documentation](https://docs.teamops.dev)
 
 </div>
