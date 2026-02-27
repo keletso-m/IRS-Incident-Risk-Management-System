@@ -487,7 +487,7 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ### Code Style
 
-- Use TypeScript strict mode
+- Used TypeScript strict mode
 - Follow ESLint and Prettier configurations
 - Write meaningful test cases
 - Document public APIs with JSDoc
@@ -567,16 +567,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI components powered by [shadcn/ui](https://ui.shadcn.com/)
 - Icon system from [Lucide](https://lucide.dev/)
 - Community contributors and testers
-
----
-
-## Support & Contact
-
-- **Documentation**: [docs.teamops.dev](https://docs.teamops.dev) (replace with your actual URL)
-- **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/teamops/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/teamops/discussions)
-- **Email**: support@teamops.dev (replace with your actual email)
-- **Twitter**: [@TeamOpsHQ](https://twitter.com/teamopshq) (replace with your actual handle)
 
 ---
 
