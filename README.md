@@ -453,10 +453,6 @@ TeamOps implements security best practices at every layer:
 - **Security Headers**: Helmet.js middleware
 - **Dependency Scanning**: Automated vulnerability checks
 
-### Reporting Security Issues
-
-Please report security vulnerabilities to **security@teamops.dev** (replace with your actual email). Do not open public issues for security concerns.
-
 ---
 
 ## Contributing
