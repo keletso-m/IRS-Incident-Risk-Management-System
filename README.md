@@ -218,8 +218,7 @@ TeamOps follows a modern, scalable three-tier architecture optimized for maintai
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/teamops.git
-cd teamops
+git clone https://github.com/keletso-m/Incident-And-Risk-Management-System.git
 ```
 
 2. **Install dependencies**
