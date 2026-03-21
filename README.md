@@ -494,7 +494,7 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 ### Phase 1: Core Foundation (in progress)
 
 - [x] User authentication & RBAC
-- [ ] Incident lifecycle management
+- [x] Incident lifecycle management
 - [ ] Basic ERM ticket system
 - [ ] Audit logging infrastructure
 
