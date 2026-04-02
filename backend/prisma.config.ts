@@ -1,8 +1,11 @@
 import { defineConfig } from "prisma/config";
+import * as dotenv from "dotenv";
+
+dotenv.config();
 
 export default defineConfig({
   schema: "prisma/schema.prisma",
   datasource: {
-    url: "postgresql://teamops:teamops123@localhost:5432/teamops",
+    url: process.env.DATABASE_URL!,
   },
 });
